@@ -1,0 +1,1 @@
+export const server = { serverName:'КОРОВА SMP', serverIp:'play.example.ru', serverPort:'25565', serverVersion:'1.21.x', serverMode:'SURVIVAL SMP', onlinePlayers:128, maxPlayers:500, discordUrl:'#', telegramUrl:'#', youtubeUrl:'#', twitchUrl:'#' } as const
